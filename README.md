@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm  GRANIER Kévin
+Freelance Junior Développeur FrontEnd / React
+base in france near to Avignon.
+
+And here is my Github where you can see my personal projects
 <!--
 **hoop30/hoop30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
