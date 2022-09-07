@@ -30,5 +30,7 @@
   <img src="./src/img/npm-min.png" width="auto" height="40px" alt="Npm"/>
 </p>
 
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoop30&hide=stars,prs,issues,contribs&bg_color=30,833ab4,e02147,fcb045&title_color=A6F526&text_color=fff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoop30&layout=compact)
+-->
