@@ -1,7 +1,7 @@
 <h1> Hi there 👋 </h1>
 <p>
   I'm  GRANIER Kévin <br/>
-  Freelance Junior Développeur FrontEnd / React <br/>
+  Junior Développeur FrontEnd / React <br/>
   base in france near to Avignon.
 </p>
 <p>
