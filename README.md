@@ -22,6 +22,7 @@
   <img src="./src/img/Javascript.png" width="auto" height="40px" alt="Javascript"/>
   <img src="./src/img/ombre-ouverte.png" width="auto" height="40px" alt="separation"/>
   <img src="./src/img/react-min.png" width="auto" height="40px" alt="React"/>
+  <img src="./src/img/nextjs.svg" width="auto" height="40px" alt="Next"/>
   <span width="1px" height="40px" background="black"></span>
   <img src="./src/img/ombre-fermer.png" width="auto" height="40px" alt="separation"/>
   <img src="./src/img/sass-min.png" width="auto" height="40px" alt="Sass"/>
@@ -33,7 +34,7 @@
 <p>
   <img src="./src/img/php.png" width="auto" height="40px" alt="Php"/>
   <img src="./src/img/sql.png" width="auto" height="40px" alt="Sql"/>
-  <img src="./src/img/node.png" width="auto" height="40px" alt="NodeJs"/>
+  <img src="./src/img/symfony.png" width="auto" height="40px" alt="Symfony"/>
 </p>
 <h5>WEB SERVICE :</h5>
 <p>
